@@ -1,4 +1,4 @@
-# quiz
+# Quiz
 
 Online JavaScript Quiz system
 
