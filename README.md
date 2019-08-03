@@ -1,6 +1,6 @@
 # Quiz
 
-Online JavaScript Quiz system
+Online Quiz system
 
 http://azdeveloping.com/projects/quiz/
 
